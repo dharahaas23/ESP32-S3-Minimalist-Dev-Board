@@ -9,7 +9,7 @@ in KiCad. Built for clean prototyping with onboard USB-C, USB-to-TTL
 via CH340K, and a 3.3V regulated power supply.
 
 ![3D Render](![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
-![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
+![3D Render](https://github.com/user-attachments/assets/5b21775f-d727-421b-8677-7545e2163080)
 
 ## Features
 
