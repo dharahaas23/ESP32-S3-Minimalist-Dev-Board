@@ -1,13 +1,6 @@
 # ESP32-S3-Minimalist-Dev-Board
 A compact 2-layer ESP32-S3 development board with USB-C, CH340K USB-to-TTL,  AMS1117 3.3V regulator, antenna keep-out zone, and full GND fill.  Designed in KiCad. DRC clean. Production-ready gerbers included.
 
-
-# ESP32-S3 Minimalist Dev Board
-
-A compact, production-ready ESP32-S3 WROOM-32 development board designed 
-in KiCad. Built for clean prototyping with onboard USB-C, USB-to-TTL 
-via CH340K, and a 3.3V regulated power supply.
-
 ![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
 ![3D Render](https://github.com/user-attachments/assets/5b21775f-d727-421b-8677-7545e2163080)
 
@@ -52,11 +45,10 @@ The design includes 5 functional blocks:
 
 | File | Description |
 |------|-------------|
-| `gerbers/` | Production-ready Gerber files |
+| `[esp 32 smaller.zip](https://github.com/user-attachments/files/27808006/esp.32.smaller.zip)[Uploading esp 32 smaller.kicad_sch…]()
+` | Production-ready Gerber files |
 | `schematic.pdf` | Full schematic export |
 | `bom.csv` | Bill of materials |
-| `esp32-minimal.kicad_pcb` | KiCad PCB file |
-| `esp32-minimal.kicad_sch` | KiCad schematic file |
 
 ## Manufacturing
 
