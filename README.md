@@ -1,8 +1,8 @@
 # ESP32-S3-Minimalist-Dev-Board
 A compact 2-layer ESP32-S3 development board with USB-C, CH340K USB-to-TTL,  AMS1117 3.3V regulator, antenna keep-out zone, and full GND fill.  Designed in KiCad. DRC clean. Production-ready gerbers included.
 
-![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
-![3D Render](https://github.com/user-attachments/assets/5b21775f-d727-421b-8677-7545e2163080)
+![3D Render](https://github.com/user-attachments/assets/13537667-915e-458c-93a0-f5130ae551f0)
+![3D Render](https://github.com/user-attachments/assets/f8bf682a-c0ee-4ddb-8db2-4503a4dcb1f6)
 
 ## Features
 
@@ -30,7 +30,7 @@ The design includes 5 functional blocks:
 - ESP32-S3 WROOM-32 module
 - GPIO breakout headers + Boot/Reset
 
-![Schematic](https://github.com/user-attachments/assets/ef9f2253-3c5d-4960-b4f0-982f9bb06600)
+![Schematic](https://github.com/user-attachments/assets/a940f2d3-e80d-47bf-9b6f-3892a780b44e)
 
 ## Design Decisions
 
