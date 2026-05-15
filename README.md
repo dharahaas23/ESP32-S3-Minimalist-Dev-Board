@@ -8,7 +8,7 @@ A compact, production-ready ESP32-S3 WROOM-32 development board designed
 in KiCad. Built for clean prototyping with onboard USB-C, USB-to-TTL 
 via CH340K, and a 3.3V regulated power supply.
 
-![3D Render](images/3d-front.png)
+![3D Render](<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b" />)
 
 ## Features
 
