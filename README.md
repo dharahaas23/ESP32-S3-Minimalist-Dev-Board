@@ -8,7 +8,7 @@ A compact, production-ready ESP32-S3 WROOM-32 development board designed
 in KiCad. Built for clean prototyping with onboard USB-C, USB-to-TTL 
 via CH340K, and a 3.3V regulated power supply.
 
-![3D Render](![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
+![3D Render](https://github.com/user-attachments/assets/1757e43f-507d-452e-be81-71649e9b303b)
 ![3D Render](https://github.com/user-attachments/assets/5b21775f-d727-421b-8677-7545e2163080)
 
 ## Features
@@ -25,8 +25,8 @@ via CH340K, and a 3.3V regulated power supply.
 
 ## PCB Layout
 
-![PCB Layout](images/pcb-layout.png)
-![PCB Back](images/pcb-back.png)
+![PCB Layout](https://github.com/user-attachments/assets/c99972a6-f46b-402f-b40a-15c6076ea1a1)
+![PCB Layout](https://github.com/user-attachments/assets/c99972a6-f46b-402f-b40a-15c6076ea1a1).
 
 ## Schematic
 
@@ -37,7 +37,7 @@ The design includes 5 functional blocks:
 - ESP32-S3 WROOM-32 module
 - GPIO breakout headers + Boot/Reset
 
-![Schematic](images/schematic.png)
+![Schematic](https://github.com/user-attachments/assets/ef9f2253-3c5d-4960-b4f0-982f9bb06600)
 
 ## Design Decisions
 
@@ -75,4 +75,4 @@ Designed for fabrication at JLCPCB / PCBWay:
 
 **Simhadri Dharahaas**  
 ECE Undergraduate | Embedded Systems & PCB Design  
-[LinkedIn](https://linkedin.com/in/dharahaassimhadri-b17b4b358)
+[LinkedIn](https://www.linkedin.com/in/dharahaas-simhadri-b17b4b358?utm_source=share_via&utm_content=profile&utm_medium=member_android)
